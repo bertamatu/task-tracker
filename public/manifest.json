@@ -1,0 +1,6 @@
+{
+  "short_name": "Tracker",
+  "name": "Task tracker",
+  "start_url": ".",
+  "display": "standalone"
+}
